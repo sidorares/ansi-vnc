@@ -1,0 +1,28 @@
+{
+  "name": "ansi-vnc",
+  "version": "0.0.1",
+  "description": "terminal vnc client",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sidorares/ansi-vnc.git"
+  },
+  "bin": {
+    "ansi-vnc": "./index.js"
+  },
+  "keywords": [
+    "ansi",
+    "vnc",
+    "rfb",
+    "terminal"
+  ],
+  "author": "Andrey Sidorov <sidorares@yandex.ru>",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "rfb2": "0.0.7",
+    "ansi-canvas": "0.0.2",
+    "optimist": "~0.5.2",
+    "canvas": "~1.0.3"
+  }
+}
