@@ -1,6 +1,6 @@
 {
   "name": "ansi-vnc",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "terminal vnc client",
   "main": "index.js",
   "repository": {
@@ -23,6 +23,7 @@
     "rfb2": "0.0.7",
     "ansi-canvas": "0.0.2",
     "optimist": "~0.5.2",
-    "canvas": "~1.0.3"
+    "canvas": "~1.0.3",
+    "keypress": "~0.1.0"
   }
 }
