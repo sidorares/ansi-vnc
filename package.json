@@ -20,10 +20,10 @@
   "license": "MIT",
   "readmeFilename": "README.md",
   "dependencies": {
-    "rfb2": "0.0.7",
-    "ansi-canvas": "0.0.2",
-    "optimist": "~0.5.2",
-    "canvas": "~1.0.3",
-    "keypress": "~0.1.0"
+    "rfb2": "0.2.0",
+    "ansi-canvas": "1.0.0",
+    "optimist": "~0.6.1",
+    "canvas": "~1.6.5",
+    "keypress": "~0.2.1"
   }
 }
